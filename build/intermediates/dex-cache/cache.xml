@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\workspace\ZBhelper\app\libs\umeng-analytics-v5.6.7.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="bf324c2f968604935d48434b57832aaaca91def0">
+        <dex dex="E:\workspace\ZBhelper\app\build\intermediates\pre-dexed\debug\umeng-analytics-v5.6.7-7d17fc98c4b8b0ffafd148e1de2fcff485f12d17.jar" />
+    </item>
+    <item
+        jar="E:\workspace\ZBhelper\app\libs\umeng-update-v2.7.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="d96f0655a780b3eeb5f1462c8dde4259c746cb26">
+        <dex dex="E:\workspace\ZBhelper\app\build\intermediates\pre-dexed\debug\umeng-update-v2.7.0-4f103a08c59be81e48c902ddd694a06a25018ed2.jar" />
+    </item>
+
+</items>
