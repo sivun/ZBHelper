@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name" >装B助手</string>
+    <string name="action_settings">Settings</string>
+    <string name="copy" >复制链接</string>
+    <string name="UMENG_APPKEY">5550d70fe0f55a1cd1004500</string>
+    <string name="UMENG_CHANNEL">myChannel_01</string>
+</resources>
