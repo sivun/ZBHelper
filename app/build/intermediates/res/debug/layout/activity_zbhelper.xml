@@ -71,4 +71,4 @@
             android:gravity="center"
             android:text="@string/copy"/>
         </LinearLayout>
-</FrameLayout><!-- From: file:/E:/workspace/ZBhelper/app/src/main/res/layout/activity_zbhelper.xml -->
+</FrameLayout><!-- From: file:/E:/workspace4as/ZBhelper/app/src/main/res/layout/activity_zbhelper.xml -->

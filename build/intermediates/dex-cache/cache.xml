@@ -12,7 +12,7 @@
         jar="E:\workspace\ZBhelper\app\libs\umeng-update-v2.7.0.jar"
         jumboMode="false"
         revision="22.0.0"
-        sha1="d96f0655a780b3eeb5f1462c8dde4259c746cb26">
+        sha1="5cb4e8ae2b3dbe3c81ac642b03065c7a0c2ce39e">
         <dex dex="E:\workspace\ZBhelper\app\build\intermediates\pre-dexed\debug\umeng-update-v2.7.0-4f103a08c59be81e48c902ddd694a06a25018ed2.jar" />
     </item>
 
