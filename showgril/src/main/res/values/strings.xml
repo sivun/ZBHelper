@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name" >美女秀</string>
+    <string name="action_settings">Settings</string>
+    <string name="copy" >复制链接</string>
+    <string name="umeng_appkey">561faab767e58efd9a001a34</string>
+    <string name="umeng_channel">myChannel_01</string>
+</resources>

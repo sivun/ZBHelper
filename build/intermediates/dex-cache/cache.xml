@@ -2,11 +2,25 @@
 <items version="2" >
 
     <item
+        jar="E:\workspace4as\ZBhelper\showgril\libs\umeng-analytics-v5.6.7.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="bf324c2f968604935d48434b57832aaaca91def0">
+        <dex dex="E:\workspace4as\ZBhelper\showgril\build\intermediates\pre-dexed\debug\umeng-analytics-v5.6.7-3e18f401e878de1dff6a3d1cb52f32411bad86e9.jar" />
+    </item>
+    <item
         jar="E:\workspace\ZBhelper\app\libs\umeng-analytics-v5.6.7.jar"
         jumboMode="false"
         revision="22.0.0"
         sha1="bf324c2f968604935d48434b57832aaaca91def0">
         <dex dex="E:\workspace\ZBhelper\app\build\intermediates\pre-dexed\debug\umeng-analytics-v5.6.7-7d17fc98c4b8b0ffafd148e1de2fcff485f12d17.jar" />
+    </item>
+    <item
+        jar="E:\workspace4as\ZBhelper\showgril\libs\umeng-update-v2.7.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="5cb4e8ae2b3dbe3c81ac642b03065c7a0c2ce39e">
+        <dex dex="E:\workspace4as\ZBhelper\showgril\build\intermediates\pre-dexed\debug\umeng-update-v2.7.0-a735d80c1a6b0958bb4a283236411da2a940fc08.jar" />
     </item>
     <item
         jar="E:\workspace\ZBhelper\app\libs\umeng-update-v2.7.0.jar"
